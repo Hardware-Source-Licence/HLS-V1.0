@@ -104,7 +104,7 @@ In consideration of the right to use this License’s text and the “Hardware S
 # Authoring Notice:
 
 - The Hardware Source Licence (this document, or the “Licence”) is not an Open Source licence. However, the Licensed Work will eventually be made available under an Open Source License, as stated in this Licence.
-- This licence, Hardware Source Licence (HSL), is inspired from the Business Source License (BSL) from MariaDB Corporation (\*), the CERN Open Hardware Licence (\*\*) and co-drafted by a European French Human Male F.M.R. Vergnes and the Artificial Intelligence ChatGPT4 (\*\*\*) between Oct 2023 and January 2024.
+- This licence, Hardware Source Licence (HSL), is inspired from the Business Source License (BSL) from MariaDB Corporation (\*), the CERN Open Hardware Licence (\*\*) and co-drafted by a Human F.M.R. Vergnes and the Artificial Intelligence ChatGPT4 (\*\*\*) between Oct 2023 and January 2024.
 
 # Copyright Notice:
 - All names, trademarks and copyrights belong to their respective owners.
