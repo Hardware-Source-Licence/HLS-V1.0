@@ -1,4 +1,5 @@
 # Hardware Business Licence (HSL) Version 1.0 
+![HSL_Logo20240116](https://github.com/Hardware-Source-Licence/HLS-V1.0/assets/24481026/2f6ca58d-2f1d-45af-b477-6fdc1ac56ddb)
 
 # Summary : 
 This Licence, “Hardware Source Licence” or “HSL” is adapted to apply to hardware, including physical components, designs, schematics, and related documentation. **This “HSL” allows free use for research, development, and private purposes, while commercial usage is subject to negotiation and payment.** The terms of this licence shall transition to the Open Source Hardware following the Effective Change Date as specified herein. By default the Change Licence to be applied will be the CERN Open Source Hardware Licence Strongly Reciprocal (OHL SR). 
