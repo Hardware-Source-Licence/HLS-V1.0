@@ -115,4 +115,4 @@ In consideration of the right to use this License’s text and the “Hardware S
 - (\*) *“Business Source License” is a trademark of MariaDB Corporation Ab.* :  <https://mariadb.com/bsl11/> 
 - (\*\*) CERN OHL: <https://cern-ohl.web.cern.ch/> 
 - (\*\*\*) ChatGPT4 is an Artificial Intelligence Property of OpenAI and the paid version has been used “ChatGPT Plus” – between Oct. 2023 and January 2024 to support the drafter.
-
+- (\*\*\*\*) M-RAL: Mermoz Robotics Aerolab Association is non profit organisation : https://github.com/M-RAL
